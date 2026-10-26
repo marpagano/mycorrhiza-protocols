@@ -27,7 +27,3 @@ This checklist separates unresolved source content from editorial decisions need
 - [ ] Review and approve an initial dated or numbered release.
 - [ ] Complete citation metadata and, if desired, archive a release with a DOI.
 - [ ] Have a subject specialist check the English translation against the original document.
-
-## Editorial treatment
-
-Notes were separated into eight thematic Markdown pages. Variants remain separate. Missing values were not inferred. An informal personal attribution in the root-mounting notes was omitted. All repository prose, filenames and template field names are in English, apart from the original source filename, scientific names and proper names. The original uploaded document remains the source for comparison.
